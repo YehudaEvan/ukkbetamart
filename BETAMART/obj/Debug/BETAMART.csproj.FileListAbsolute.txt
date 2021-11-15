@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\BETAMART\BETAMART\bin\Debug\betamart.accdb
+C:\Users\USER\source\repos\BETAMART\BETAMART\bin\Debug\BETAMART.exe.config
+C:\Users\USER\source\repos\BETAMART\BETAMART\bin\Debug\BETAMART.exe
+C:\Users\USER\source\repos\BETAMART\BETAMART\bin\Debug\BETAMART.pdb
+C:\Users\USER\source\repos\BETAMART\BETAMART\obj\Debug\BETAMART.Form1.resources
+C:\Users\USER\source\repos\BETAMART\BETAMART\obj\Debug\BETAMART.Properties.Resources.resources
+C:\Users\USER\source\repos\BETAMART\BETAMART\obj\Debug\BETAMART.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BETAMART\BETAMART\obj\Debug\BETAMART.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BETAMART\BETAMART\obj\Debug\BETAMART.exe
+C:\Users\USER\source\repos\BETAMART\BETAMART\obj\Debug\BETAMART.pdb
+C:\Users\USER\source\repos\BETAMART\BETAMART\obj\Debug\BETAMART.csproj.AssemblyReference.cache
